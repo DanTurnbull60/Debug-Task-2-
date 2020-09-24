@@ -14,7 +14,7 @@ ERROR 1
 
 2.What was the error and how did you fix it?
 
-image src doesnt do anything so i changed it to img src
+image scr doesnt do anything so i changed it to img src
 
 ERROR 2
 =======
