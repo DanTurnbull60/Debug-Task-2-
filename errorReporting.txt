@@ -1,0 +1,110 @@
+ERROR REPORT - LEVEL 2, SILVER
+==============================
+
+Below you will write your debugging report by answering the following questions about the 9 errors you found.
+
+-----------------------------------------------------------------------
+HTML ERRORS - You will find the following errors in index.html
+ERROR 1
+=======
+
+1. What line did you find the error?
+
+11
+
+2.What was the error and how did you fix it?
+
+image src doesnt do anything so i changed it to img src
+
+ERROR 2
+=======
+
+1. What line did you find the error?
+
+13
+
+2.What was the error and how did you fix it?
+
+title was too large, so i changed to it to h2
+
+ERROR 3
+=======
+
+1. What line did you find the error?
+
+17 - 22
+
+2.What was the error and how did you fix it? 
+
+it said ol rather than ul so i changed ol to ul to get bullet point list
+
+ERROR 4
+=======
+
+1. What line did you find the error?
+
+27
+
+2.What was the error and how did you fix it?
+
+it said <list> rather than <li> so i changed it to <li>
+
+ERROR 5
+=======
+
+1. What line did you find the error?
+
+30
+
+2.What was the error and how did you fix it?
+
+"YOUR TICKETS!" missing li tags so i added the li rag
+
+________________________________________________________________________
+
+CSS ERRORS - You will find the following errors in style.css
+
+ERROR 6
+=======
+
+1. What line did you find the error?
+
+2
+
+2.What was the error and how did you fix it?
+
+the background was supposed to  be purple not red so i chnged red to purple
+
+ERROR 7
+=======
+
+1. What line did you find the error?
+
+7
+
+2.What was the error and how did you fix it?
+
+px added to 250 width
+
+ERROR 8
+=======
+
+1. What line did you find the error?
+
+12
+
+2.What was the error and how did you fix it?
+
+ font-weight didnt have a dash so it didnt work. i changed fontweight to font-weight
+
+
+ERROR 9
+=======
+
+1. What line did you find the error?
+
+17
+
+2.What was the error and how did you fix it?
+
+css uses American spelling so i changed it to color
